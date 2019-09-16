@@ -13,7 +13,7 @@ A command-line operating system based on [Xv6](https://pdos.csail.mit.edu/6.828/
 `-l` - will include details such as creation date and size with each file
 `-R` - will list all files found in sub-directories recursively.
 
-_Note: -l and -R flags can be used at the same time e.g. `ls messages -l -R`._
+_Note: -l and -R flags can be used at the same time e.g._ `ls messages -l -R`_._
 
 ![cd and ls demo](https://github.com/faibz/OperatingSystem/blob/master/cdandlsdemo.png "cd and ls demo")
 
