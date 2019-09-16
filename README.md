@@ -1,4 +1,4 @@
-# OperatingSystem
+# Operating System
 
 ## Setup
 ### Windows
