@@ -17,6 +17,8 @@ _Note: -l and -R flags can be used at the same time e.g._ `ls messages -l -R`_._
 
 ![cd and ls demo](https://github.com/faibz/OperatingSystem/blob/master/cdandlsdemo.png "cd and ls demo")
 
+_Note: When using ls from the root directory, the full path must be specified: usrbin/ls._
+
 ## Setup
 ### Windows
 
