@@ -1,5 +1,22 @@
 # Operating System
 
+A command-line operating system based on [Xv6](https://pdos.csail.mit.edu/6.828/2018/xv6.html).
+
+## Functionality
+
+#### Change Directory (cd)
+`cd [directory]` - go to sub-directory (by name)
+`cd ..` - go to parent directory
+
+#### List (ls)
+`ls [directory]` - list files in current directory or specified sub-directory
+`-l` - will include details such as creation date and size with each file
+`-R` - will list all files found in sub-directories recursively.
+
+_Note: -l and -R flags can be used at the same time e.g. `ls messages -l -R`._
+
+![cd and ls demo](https://github.com/faibz/OperatingSystem/blob/master/cdandlsdemo.png "cd and ls demo")
+
 ## Setup
 ### Windows
 
